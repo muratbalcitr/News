@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589117550884",
+    "project_id": "challenge-murat",
+    "storage_bucket": "challenge-murat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589117550884:android:dc7774b3ea9d59c939c3b1",
+        "android_client_info": {
+          "package_name": "com.m2lifeApps.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589117550884-3bghpjds3oabp401lsasna3p1nlfh4li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2G-m9hfIwdoEECoaWnVyFkPW6zLLgu-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589117550884-3bghpjds3oabp401lsasna3p1nlfh4li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

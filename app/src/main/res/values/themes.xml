@@ -1,0 +1,100 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MarvelChallenge" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="TextStyle4">
+        <item name="fontFamily">@font/sf_compact_display_regular</item>
+        <item name="android:textSize">@dimen/text_size_4</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle4b">
+        <item name="fontFamily">@font/sf_compact_display_semibold</item>
+        <item name="android:textSize">@dimen/text_size_4</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle3">
+        <item name="fontFamily">@font/sf_compact_display_regular</item>
+        <item name="android:textSize">@dimen/text_size_3</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle3b">
+        <item name="fontFamily">@font/sf_compact_display_semibold</item>
+        <item name="android:textSize">@dimen/text_size_3</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+
+    <style name="TextStyle2">
+        <item name="fontFamily">@font/sf_compact_display_regular</item>
+        <item name="android:textSize">@dimen/text_size_2</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle2b">
+        <item name="fontFamily">@font/sf_compact_display_semibold</item>
+        <item name="android:textSize">@dimen/text_size_2</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle1">
+        <item name="fontFamily">@font/sf_compact_display_regular</item>
+
+        <item name="android:textSize">@dimen/text_size_1</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle1b">
+        <item name="fontFamily">@font/sf_compact_display_bold</item>
+        <item name="android:textSize">@dimen/text_size_1</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle0">
+        <item name="fontFamily">@font/sf_compact_display_regular</item>
+        <item name="android:textSize">@dimen/text_size_0</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <style name="TextStyle0b">
+        <item name="fontFamily">@font/sf_compact_display_semibold</item>
+        <item name="android:textSize">@dimen/text_size_0</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:includeFontPadding">true</item>
+
+    </style>
+
+    <color name="main_text">#1A1A1A</color>
+</resources>
